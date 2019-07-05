@@ -1,0 +1,16 @@
+PODS:
+  - HockeySDK/CrashOnlyLib (5.1.4)
+
+DEPENDENCIES:
+  - HockeySDK/CrashOnlyLib
+
+SPEC REPOS:
+  "git@github.com:GoodNotes/Specs.git":
+    - HockeySDK
+
+SPEC CHECKSUMS:
+  HockeySDK: 15afe6bc0a5bfe3a531fd73dbf082095f37dac3b
+
+PODFILE CHECKSUM: d9b31466e4ad055ede3f83242813c3ed1833ab97
+
+COCOAPODS: 1.7.1

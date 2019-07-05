@@ -1,0 +1,8 @@
+.DS_Store
+Core/Pods
+/.DS_Store
+*.lyx~
+xcdebugger
+*.xcuserdatad
+xcuserdata
+Pods
